@@ -11,10 +11,4 @@ Perfectly placed media queries for satisfactory responsiveness covering almost d
 And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
 
-![image of Home](/site/Screenshot(25).png "home page")
-![image of site](/site/Screenshot(26).png " ")
-![image of site](/site/Screenshot(27).png " ")
-![image of site](/site/Screenshot(28).png " ")
-![image of site](/site/Screenshot(29).png " ")
-![image of site](/site/Screenshot(30).png " ")
 
